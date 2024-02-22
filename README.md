@@ -1,5 +1,5 @@
 # ML <a id='purchases'></a>
-## Repository of the Classiscal ML projects.
+## Repository of the Classical ML projects.
 
 <b>Project Description</b>
 
