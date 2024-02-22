@@ -1,6 +1,6 @@
 [![ru](https://img.shields.io/badge/lang-ru-blue.svg)](https://github.com/DimaDoesCode/DL_and_NLP-Geonames/blob/master/README.ru.md)
 
-# ML <a id='geonames'></a>
+# ML <a id='purchases'></a>
 ## Repository of the Classiscal ML projects.
 
 <b>Project Description</b>
@@ -17,21 +17,6 @@ We will start by analyzing the available data, preprocessing it, and creating re
 This project provides an opportunity to apply various methods and tools of machine learning in the context of solving a real business problem. Let's embark on this exciting journey and create a model that will help optimize sales strategies and enhance the experience of our customers!
 ---
 
-<a href="https://github.com/DimaDoesCode/DL_and_NLP-Geonames/blob/master/Geonames_LaBSE.ipynb">To view the Jupyter Notebook code of the research, click on this link.</a><br>
-<a href="https://huggingface.co/dima-does-code/LaBSE-geonames-15K-MBML-5e-v1">To view the Model card of the fine tuned LaBSE model used, click on this link.</a><br>
-<a href="https://github.com/DimaDoesCode/DL_and_NLP-Geonames/blob/master/geonames_labse.py">To view the Python Module code of the research, click on this link.</a>
-
-<br>
-
-Example of using the `geonames_labse.py` module:
-
-```python
-
-import geonames_labse
-
-with geonames_labse.MyGeoClass() as my_geo_instance:
-    result = my_geo_instance.my_get_similar('Каштана', top_k=5)
-```
 <br>
 
 | Project Name | Description | Libraries used |
