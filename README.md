@@ -16,6 +16,13 @@ This project provides an opportunity to apply various methods and tools of machi
 
 <br>
 
+---
+https://github.com/DimaDoesCode/ML_and_Time-Series/blob/master/NPD_Predict_marketplace%20-%20marketplace-purchases.ipynb
+<a href="https://github.com/DimaDoesCode/ML_and_Time-Series/blob/master/NPD_Predict_marketplace%20-%20apparel-purchases.ipynb">To view the Jupyter Notebook code of the research of Clothing store, click on this link.</a><br>
+<a href="https://github.com/DimaDoesCode/ML_and_Time-Series/blob/master/NPD_Predict_marketplace%20-%20gifts-purchases.ipynb">To view the Jupyter Notebook code of the research of Gift shop, click on this link.</a><br>
+<a href="https://github.com/DimaDoesCode/ML_and_Time-Series/blob/master/NPD_Predict_marketplace%20-%20marketplace-purchases.ipynb">TTo view the Jupyter Notebook code of the research of Multicategory store, click on this link..</a>
+
+
 | Project Name | Description | Libraries used |
 | :---------------------- | :---------------------- | :---------------------- |
 | Purchases | Predicting the next purchase holds strategic importance for businesses as it allows optimizing marketing efforts, improving customer service, and increasing overall profitability. The goal of this project is not only to develop an accurate prediction model but also to understand the key factors influencing customer behavior when making purchases.</i> | *pandas, sklearn, numpy, matplotlib* |
