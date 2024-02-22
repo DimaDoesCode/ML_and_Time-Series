@@ -17,7 +17,7 @@ This project provides an opportunity to apply various methods and tools of machi
 <br>
 
 ---
-https://github.com/DimaDoesCode/ML_and_Time-Series/blob/master/NPD_Predict_marketplace%20-%20marketplace-purchases.ipynb
+
 <a href="https://github.com/DimaDoesCode/ML_and_Time-Series/blob/master/NPD_Predict_marketplace%20-%20apparel-purchases.ipynb"> To view the Jupyter Notebook code of the research of Clothing store, click on this link.</a><br>
 <a href="https://github.com/DimaDoesCode/ML_and_Time-Series/blob/master/NPD_Predict_marketplace%20-%20gifts-purchases.ipynb"> To view the Jupyter Notebook code of the research of Gift shop, click on this link.</a><br>
 <a href="https://github.com/DimaDoesCode/ML_and_Time-Series/blob/master/NPD_Predict_marketplace%20-%20marketplace-purchases.ipynb"> To view the Jupyter Notebook code of the research of Multicategory store, click on this link..</a>
