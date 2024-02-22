@@ -5,7 +5,7 @@
 
 <b>Project Description</b>
 
-<img src="https://github.com/DimaDoesCode/DL_and_NLP-Geonames/blob/master/geonames.png" width="200" height="200" align="left"/>
+<img src="https://github.com/DimaDoesCode/ML_and_Time-Series/blob/master/NPD_p.png" width="200" height="200" align="left"/>
 
 
 Welcome to the project on predicting the next purchase within 30 days! This project aims to create a model capable of analyzing data from previous purchases and predicting the likelihood of future purchases by customers within a specific time period.
