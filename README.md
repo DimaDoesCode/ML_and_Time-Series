@@ -1,5 +1,3 @@
-[![ru](https://img.shields.io/badge/lang-ru-blue.svg)](https://github.com/DimaDoesCode/DL_and_NLP-Geonames/blob/master/README.ru.md)
-
 # ML <a id='purchases'></a>
 ## Repository of the Classiscal ML projects.
 
@@ -21,4 +19,4 @@ This project provides an opportunity to apply various methods and tools of machi
 
 | Project Name | Description | Libraries used |
 | :---------------------- | :---------------------- | :---------------------- |
-| GeoNames | The goal of this project is to develop a solution for mapping geographical names to the standardized names from The GeoNames geographical database for internal use by the Yandex Practicum Career Center.|<i>IPython, matplotlib, numpy, pandas, random, safetensors, seaborn, sentence_transformers, sqlalchemy, warnings</i>
+| Purchases | Predicting the next purchase holds strategic importance for businesses as it allows optimizing marketing efforts, improving customer service, and increasing overall profitability. The goal of this project is not only to develop an accurate prediction model but also to understand the key factors influencing customer behavior when making purchases.</i>
