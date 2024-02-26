@@ -25,4 +25,4 @@ This project provides an opportunity to apply various methods and tools of machi
 
 | Project Name | Description | Libraries used |
 | :---------------------- | :---------------------- | :---------------------- |
-| Purchases | Predicting the next purchase holds strategic importance for businesses as it allows optimizing marketing efforts, improving customer service, and increasing overall profitability. The goal of this project is not only to develop an accurate prediction model but also to understand the key factors influencing customer behavior when making purchases.</i> | *pandas, sklearn, numpy, matplotlib* |
+| Purchases | Predicting the next purchase holds strategic importance for businesses as it allows optimizing marketing efforts, improving customer service, and increasing overall profitability. The goal of this project is not only to develop an accurate prediction model but also to understand the key factors influencing customer behavior when making purchases.</i> | *catboost, matplotlib, numpy, pandas, sklearn* |
